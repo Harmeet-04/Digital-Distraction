@@ -5,7 +5,7 @@
 | Name          | Department       | University                   | Email                                                                     | Roll No    |
 | ------------- | ---------------- | ---------------------------- | ------------------------------------------------------------------------- | ---------- |
 | Harmeet Singh | Computer Science | Chitkara University, Rajpura | [harmeet373.be22@chitkara.edu.in](mailto:harmeet373.be22@chitkara.edu.in) | 2210990373 |
-| Riya Dedha    | Computer Science | Chitkara University, Rajpura | [riya2174.be22@chitkara.edu.in](mailto:riya2174.be22@chitkara.edu.in)     | 2210992174 |
+| Riya Singh    | Computer Science | Chitkara University, Rajpura | [riya2174.be22@chitkara.edu.in](mailto:riya2174.be22@chitkara.edu.in)     | 2210992174 |
 | Aayush Mehta  | Computer Science | Chitkara University, Rajpura | [aayush22.be22@chitkara.edu.in](mailto:aayush22.be22@chitkara.edu.in)     | 2210990022 |
 | Varnika Som   | Computer Science | Chitkara University, Rajpura | [varnika951.be22@chitkara.edu.in](mailto:varnika951.be22@chitkara.edu.in) | 2210990951 |
 
